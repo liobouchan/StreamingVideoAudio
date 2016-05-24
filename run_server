@@ -1,4 +1,4 @@
 PORT=1051
 
-echo "Running Server on port $PORT"
+echo "Server Levantado en el puerto $PORT"
 java Server $PORT
